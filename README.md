@@ -1,4 +1,4 @@
-# Twitter Word Fequency With Scala
+# Twitter Word Frequency With Scala
 
 
 ##Installation and Run
